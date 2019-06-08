@@ -1,0 +1,43 @@
+.productNameInput{
+    border: 1px solid #DCDEE0; border-radius: 3px; height: 50px;width: 20%; padding: 0px 16px; font-size: 14px; color: #555555; outline:none;margin-bottom: 15px;line-height:50px; color:#888;
+}
+.selectSubmit{
+    display: inline-block; vertical-align: middle; padding: 12px 24px; margin: 0px; font-size:16px; line-height: 24px; text-align: center; white-space: nowrap; vertical-align: middle; cursor: pointer; color: #ffffff; background-color: #27A9E3; border-radius: 3px; border: none; -webkit-appearance: none; outline:none; width:5%;
+}
+
+body{margin:0 auto; font-size:12px; color:#666; font-family:"微软雅黑", Simsun;}
+.productDiv{
+    text-align: center;
+    float: left;
+    margin-left: 4%;
+    margin-top: 4%;
+    max-width: 300px;
+}
+.productDiv img{
+    width: 200px;
+    height: 200px;
+}
+
+.productDetailDiv1{
+    float: left;
+
+}
+.productDetailDiv1 img{
+    width: 450px;
+}
+.productDetailDiv{
+    margin-top: 20px;
+}
+.productDetailDiv2{
+    float: left;
+    margin-left: 20px;
+    max-width: 50%;
+    word-wrap: break-word;
+}
+.action button,.buttonClass button{
+    display: inline-block; vertical-align: middle; padding: 12px 24px; font-size:16px; line-height: 24px; text-align: center; white-space: nowrap; vertical-align: middle; cursor: pointer; color: #ffffff; background-color: #27A9E3; border-radius: 3px; border: none; -webkit-appearance: none; outline:none;
+    margin-left: 20px;
+}
+.carBgc{
+    margin-top: 3px;
+}
